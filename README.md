@@ -2,6 +2,12 @@
 
 Data used for the comparison of event and temporal expression annotation between crowd and experts.
 
+The EN/ folder contains data for event and timex annotation by the crowd - including and excluding potential spammers accrding to the CrowdTruth metric.
+
+The IT/ folder contains data for event, timex, and temporal relations annotation by the crowd - including and excluding potential spammers accrding to the CrowdTruth metric.
+
+Expert data can be retrieved from the original annotated data.
+
 If you use these data, please cite the following paper:
 
 ```
